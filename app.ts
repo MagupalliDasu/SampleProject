@@ -1,0 +1,1 @@
+var valur=10;
